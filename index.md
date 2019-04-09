@@ -1,6 +1,6 @@
 ## BIENVENUE SUR LE SITE DE LITTLEBITS LYON !
 
-![Image](<blockquote class="imgur-embed-pub" lang="en" data-id="aovqdQy"><a href="//imgur.com/aovqdQy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Image](//imgur.com/aovqdQy)
 
 ### +sur littleBits Lyon
 Lancé par Connie et Benjamin en 2015, le chapitre littleBits Lyon est composé de +10 ans d’expérience dans le mouvement Maker et Hacker, avec une approche enthousiaste et passionnée de la science, de la technologie, de l’art et du design.
