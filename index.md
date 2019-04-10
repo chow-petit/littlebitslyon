@@ -44,4 +44,4 @@ Nous sommes présentement actifs dans: Education, Santé, Technologie, Art, Gast
 ![Image](https://i.imgur.com/NC15lmp.png)
 
 ## Visitez-nous sur [notre page littleBits.cc pour voir nos événements précédents](https://www.littlebits.cc/inventor-clubs/littlebits-lyon) ! :)
-## Contact : contact-at-littlebitslyon.fr
+### Contact : contact-at-littlebitslyon.fr
