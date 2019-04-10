@@ -13,6 +13,8 @@ littleBits Lyon est ouvert à tous les âges, toutes les compétences, et toutes
 
 Notre prochaine expérimentation inclura à la fois explorer le développement / conception de modules littleBits en open source en utilisant l’upcycling, et le recyclage des matériaux pour créer des littleBits uniques pour la communauté, ainsi qu’utiliser le journal d’invention, créé par littleBits Education, pour mieux documenter les cycles d’invention et de prototypage de nos contributeurs.
 
+![Image](https://i.imgur.com/yxVqI2y.jpg)
+
 ### Nos ateliers de découverte
 Un de nos formats d’ateliers s’inspire du simulated annealing. Au début de cet atelier, nous mettons les Bits à disposition avec le minimum d’information – c’est la phase la plus aléatoire et chaotique, qui dure typiquement 15 minutes. On s’en sert comme brise-glace universelle.
 
