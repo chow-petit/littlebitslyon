@@ -39,4 +39,7 @@ Nous travaillons donc à répondre aux défis sociétaux grâce à la conception
 
 Nous sommes présentement actifs dans: Education, Santé, Technologie, Art, Gastronomie, Philosophie, Complexité, Politiques, Futurologie, Société, World peace.
 
-## Contactez-nous : contact-at-littlebitslyon.fr
+![Image](https://i.imgur.com/NC15lmp.png)
+
+## Visitez-nous sur [notre page littleBits.cc pour voir nos événements précédents](https://www.littlebits.cc/inventor-clubs/littlebits-lyon) ! :)
+## Contact : contact-at-littlebitslyon.fr
