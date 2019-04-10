@@ -40,3 +40,4 @@ Nous travaillons donc à répondre aux défis sociétaux grâce à la conception
 
 Nous sommes présentement actifs dans: Education, Santé, Technologie, Art, Gastronomie, Philosophie, Complexité, Politiques, Futurologie, Société, World peace.
 
+## Contactez-nous : contact-at-littlebitslyon.fr
